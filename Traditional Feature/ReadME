@@ -1,0 +1,4 @@
+1.本文件全部由C++和openCv库编写
+2.生成可执行文件a.out:g++ ***.cpp `pkg-config --cflags --libs opencv`
+  可自行编写脚本
+3.执行可执行文件:./a.out
